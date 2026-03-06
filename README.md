@@ -14,7 +14,7 @@ Implement and evaluate Min-Hashing and Locality Sensitive Hashing (LSH) for appr
 | File | Description |
 |------|-------------|
 | `assign.ipynb` | Main notebook — all 5 questions with code, outputs, and analysis |
-| `report.tex` | LaTeX source for the PDF report |
+| `M25CSA010_CSL7110_Assignment` | PDF report |
 | `screenshots/` | Output screenshots used in the report |
 | `D1.txt`–`D4.txt` | Input documents for Questions 1–3 |
 | `ml-100k/` | MovieLens 100K dataset (943 users, 1682 movies) |
